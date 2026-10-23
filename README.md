@@ -2,7 +2,7 @@
   <tr>
     <td valign="top" width="72%">
       <h1>Hi, I'm Avinash Kumar Shah 👋</h1>
-      <p>Computer Science undergraduate at <b>IIIT Una</b> (Batch of 2027). I build low-level graphics engines, real-time physics simulations, game systems, and distributed full-stack applications.</p>
+      <p>Computer Science undergraduate at <b>IIIT Una</b> (Batch of 2027). I engineer full-stack web platforms, real-time distributed systems, low-level graphics engines, and gameplay architectures.</p>
       <p>
         <a href="https://avinash893.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-avinash893.github.io-black?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
         <a href="https://www.linkedin.com/in/avinash-shah-19447628a/"><img src="https://img.shields.io/badge/LinkedIn-avinash--shah-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
@@ -16,6 +16,19 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 🌐 Full-Stack & Real-Time Distributed Systems
+
+- **[We Hear](https://github.com/avinash893/we-hear)** — [Live App](https://wehearapp.online/)
+  - Anonymous 1-to-1 peer support platform featuring low-latency P2P video streaming via **WebRTC** with custom **Socket.IO** signaling and Razorpay integration.
+- **[Nomato](https://github.com/avinash893/nomato)** — [Live App](https://nomato-eta.vercel.app)
+  - Microservices food delivery platform with JWT session management and an intelligent support chatbot powered by the **Gemini 2.5 Flash API**.
+- **[Job Tracker](https://github.com/avinash893/job-tracker)** — [Live App](https://frontend-mu-two-41.vercel.app/register)
+  - Full-stack Django + PostgreSQL platform with RESTful CRUD endpoints and multi-parameter filtering.
+- **[Blender MCP Server](https://github.com/avinash893/blender-mcp)**
+  - AI Model Context Protocol bridge connecting LLMs and agentic assistants directly to Blender for automated procedural 3D modeling.
 
 ---
 
@@ -34,25 +47,11 @@
 
 ---
 
-### 🌐 Full-Stack & Real-Time Distributed Systems
-
-- **[We Hear](https://github.com/avinash893/we-hear)** — [Live App](https://wehearapp.online/)
-  - Anonymous 1-to-1 peer support platform featuring low-latency P2P video streaming via **WebRTC** with custom **Socket.IO** signaling and Razorpay integration.
-- **[Nomato](https://github.com/avinash893/nomato)** — [Live App](https://nomato-eta.vercel.app)
-  - Microservices food delivery platform with JWT session management and an intelligent support chatbot powered by the **Gemini 2.5 Flash API**.
-- **[Job Tracker](https://github.com/avinash893/job-tracker)** — [Live App](https://frontend-mu-two-41.vercel.app/register)
-  - Full-stack Django + PostgreSQL platform with RESTful CRUD endpoints and multi-parameter filtering.
-- **[Blender MCP Server](https://github.com/avinash893/blender-mcp)**
-  - AI Model Context Protocol bridge connecting LLMs and agentic assistants directly to Blender for automated procedural 3D modeling.
-
----
-
 ### 🛠️ Technical Stack
 
-- **Languages:** C++, Python, TypeScript, JavaScript, SQL, GLSL, HTML/CSS
-- **Graphics & Game Tech:** OpenGL, Vulkan, DirectX 11, GLFW, GLM, Unity, Blender
-- **Web & Backend:** Next.js, React, Node.js, Django, FastAPI, Socket.IO, WebRTC, Express
+- **Web & Backend:** Next.js, React, Node.js, TypeScript, JavaScript, Django, FastAPI, Socket.IO, WebRTC, Express
 - **Databases & Cloud:** PostgreSQL, MongoDB, Prisma ORM, Django ORM, Firebase
+- **Graphics & Game Tech:** C++, OpenGL, Vulkan, DirectX 11, GLFW, GLM, GLSL, Unity, Blender
 - **Competitive Programming:** 600+ Data Structures & Algorithms problems solved in C++ on LeetCode.
 
 ---
