@@ -1,12 +1,21 @@
-# Hi, I'm Avinash Kumar Shah 👋
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-avinash893.github.io-black?style=flat-square&logo=google-chrome)](https://avinash893.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avinash--shah-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/avinash-shah-19447628a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/user7340xt/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-aaluchipas-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/aaluchipas)
-[![Email](https://img.shields.io/badge/Email-avinash.1kshah%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:avinash.1kshah@gmail.com)
-
-Computer Science undergraduate at **IIIT Una** (Batch of 2027). I build low-level graphics engines, real-time physics simulations, game systems, and distributed full-stack applications.
+<table>
+  <tr>
+    <td valign="top" width="72%">
+      <h1>Hi, I'm Avinash Kumar Shah 👋</h1>
+      <p>Computer Science undergraduate at <b>IIIT Una</b> (Batch of 2027). I build low-level graphics engines, real-time physics simulations, game systems, and distributed full-stack applications.</p>
+      <p>
+        <a href="https://avinash893.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-avinash893.github.io-black?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
+        <a href="https://www.linkedin.com/in/avinash-shah-19447628a/"><img src="https://img.shields.io/badge/LinkedIn-avinash--shah-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://leetcode.com/u/user7340xt/"><img src="https://img.shields.io/badge/LeetCode-600%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+        <a href="https://www.kaggle.com/aaluchipas"><img src="https://img.shields.io/badge/Kaggle-aaluchipas-20BEFF?style=flat-square&logo=kaggle" alt="Kaggle" /></a>
+        <a href="mailto:avinash.1kshah@gmail.com"><img src="https://img.shields.io/badge/Email-avinash.1kshah%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+    </td>
+    <td align="center" valign="middle" width="28%">
+      <img src="profile.png" width="160" style="border-radius: 50%; max-width: 100%;" alt="Avinash Kumar Shah" />
+    </td>
+  </tr>
+</table>
 
 ---
 
